@@ -4,7 +4,7 @@ Portfolio of completed projects I worked on while attending the BI Analyst Tripl
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 1 | [Excel Project Funds](https://github.com/dhammons93/Tripleten-Data-Projects-Portfolio/tree/main/Excel%20Project%20Funds) | Worked with Excel to do a spreadsheet about funds for fictional store. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
